@@ -1,5 +1,0 @@
-Para agregar una imagen al slider del login
-solo tiene que ser .jpg y estar presente en esta
-carpeta.
-
- :D @@@ Ever CR 
